@@ -11,6 +11,12 @@ Desafio LangChain com DB Vetorial
 
 Atualize o campo COHERE_API_KEY com a sua própria API Key da [Cohere](https://dashboard.cohere.com/welcome/login)
 
+### Rode o Sistema
+
+```sh
+docker compose up --build -d
+```
+
 ### Visualize os logs
 
 Visualize os logs do container e aguarde o aviso : Application startup complete.
